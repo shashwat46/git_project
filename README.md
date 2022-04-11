@@ -1,3 +1,3 @@
 # git_project
-A session on github
+#A session on github
 Learning Github
